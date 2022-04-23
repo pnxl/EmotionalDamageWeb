@@ -9,5 +9,5 @@ lol
 ## Usage
 Head over to [this webpage](https://pnxl.dev/etc/games/emodmg) at my website [pnxl.dev](https://pnxl.dev/).
 
-Alternatively, a Vercel deployment of this exact repository is available [here](emotional-damage.vercel.app).
+Alternatively, a Vercel deployment of this exact repository is available [here](https://emotional-damage.vercel.app).
 
